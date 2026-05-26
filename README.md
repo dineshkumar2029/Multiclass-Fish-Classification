@@ -231,13 +231,13 @@ streamlit run app/app.py
 
 ## Upload Interface
 
-![Upload Screen](screenshots/upload_screen.png)
+![Upload Screen](outputs/upload_screen.png)
 
 ---
 
 ## Prediction Output
 
-![Prediction Output](screenshots/prediction_output.png)
+![Prediction Output](outputs/prediction_output.png)
 
 ---
 
