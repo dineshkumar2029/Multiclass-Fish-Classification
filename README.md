@@ -5,8 +5,6 @@
 This project focuses on classifying fish images into multiple categories using Deep Learning and Transfer Learning techniques.  
 A custom CNN model and multiple pretrained models were trained and compared to identify the best-performing architecture.
 
-The final model was deployed using Streamlit for real-time fish image prediction.
-
 ---
 
 # 🚀 Features
@@ -241,12 +239,6 @@ streamlit run app/app.py
 
 ---
 
-# 🌐 Deployment
-
-The application can be deployed using Streamlit Community Cloud.
-
----
-
 # 🔮 Future Enhancements
 
 - Fine-tuning pretrained layers
@@ -261,8 +253,6 @@ The application can be deployed using Streamlit Community Cloud.
 
 This project successfully demonstrates multiclass fish image classification using Deep Learning and Transfer Learning techniques.  
 Among all models, MobileNet achieved the highest performance with excellent classification accuracy.
-
-The project also includes a deployment-ready Streamlit application for real-time predictions.
 
 ---
 
