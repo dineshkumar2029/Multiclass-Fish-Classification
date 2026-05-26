@@ -135,21 +135,15 @@ A custom Convolutional Neural Network was built from scratch.
 
 # 📈 Model Accuracy Comparison
 
-Add your generated graph image here:
 
-```md
 ![Model Comparison](outputs/model_comparison.png)
-```
 
 ---
 
 # 📉 Confusion Matrix
 
-Add your confusion matrix image here:
 
-```md
 ![Confusion Matrix](outputs/confusion_matrix.png)
-```
 
 ---
 
@@ -180,7 +174,7 @@ The Streamlit application allows users to:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone <REPOSITORY_LINK>
 ```
 
 ---
@@ -237,21 +231,13 @@ streamlit run app/app.py
 
 ## Upload Interface
 
-Add screenshot here:
-
-```md
 ![Upload Screen](screenshots/upload_screen.png)
-```
 
 ---
 
 ## Prediction Output
 
-Add screenshot here:
-
-```md
 ![Prediction Output](screenshots/prediction_output.png)
-```
 
 ---
 
